@@ -12,6 +12,7 @@ Este é um projeto simples de galeria de imagens inspirado em One Piece.
 
 1. Clone o repositório para o seu ambiente local.
 2. Abra o arquivo `index.html` em um navegador web.
+3. Ou acesse diretamente pelo link: [One Piece Gallery](https://tonygabriel60.github.io/one-piece--gallery/)
 
 ## Estrutura HTML
 
